@@ -187,7 +187,7 @@ msgstr "Entratz un còde local WordPress valid"
 # @ polylang
 #: admin/admin-model.php:252
 msgid "The language code must be unique"
-msgstr "Lo còde de la lenga deu èsser unic"
+msgstr "Lo còdi de la lenga deu èsser unic"
 
 # @ polylang
 #: admin/admin-model.php:256
@@ -296,7 +296,7 @@ msgstr "Lo nom es utilizat un pauc pertot sul site (per exemple&nbsp;: Occitan)"
 # @ polylang
 #: admin/table-languages.php:75 admin/view-tab-lang.php:61
 msgid "Locale"
-msgstr "Còde local"
+msgstr "Còdi local"
 
 # @ polylang
 #: admin/view-tab-lang.php:66
@@ -304,13 +304,13 @@ msgid ""
 "WordPress Locale for the language (for example: en_US). You will need to "
 "install the .mo file for this language."
 msgstr ""
-"Còde local utilizat per WordPress per la lenga (per exemple&nbsp;: oci). "
+"Còdi local utilizat per WordPress per la lenga (per exemple&nbsp;: oci). "
 "Auretz besonh d&rsquo;installar los fichièrs .mo correspondent."
 
 # @ polylang
 #: admin/view-tab-lang.php:70
 msgid "Language code"
-msgstr "Còde de la lenga"
+msgstr "Còdi de la lenga"
 
 # @ polylang
 #: admin/view-tab-lang.php:76
@@ -320,12 +320,12 @@ msgstr "Sistèma d&rsquo;escritura"
 # @ polylang
 #: admin/view-tab-lang.php:80
 msgid "left to right"
-msgstr "d&rsquo;esquèrra a drecha"
+msgstr "d&rsquo;esquèrra a dreita"
 
 # @ polylang
 #: admin/view-tab-lang.php:85
 msgid "right to left"
-msgstr "de drecha a esquèrra"
+msgstr "de dreita a esquèrra"
 
 # @ polylang
 #: admin/view-tab-lang.php:87
@@ -357,7 +357,7 @@ msgstr "Cercar dins las traduccions"
 # @ polylang
 #: admin/view-tab-strings.php:11
 msgid "Clean strings translation database"
-msgstr "Netejar las cadenas de traduccion de la banca de donadas"
+msgstr "Netejar las cadenas de traduccion de la basa de donadas"
 
 # @ polylang
 #: admin/view-tab-settings.php:14
@@ -450,7 +450,7 @@ msgstr "Suprimir"
 # @ polylang
 #: admin/table-languages.php:76
 msgid "Code"
-msgstr "Còde"
+msgstr "Còdi"
 
 # @ polylang
 #: admin/table-languages.php:78
@@ -557,7 +557,7 @@ msgstr ""
 # @ polylang
 #: admin/admin-model.php:248
 msgid "The language code contains invalid characters"
-msgstr "Lo còde de la lenga conten de caractèrs invalids"
+msgstr "Lo còdi de la lenga conten de caractèrs invalids"
 
 # @ polylang
 #: admin/view-tab-settings.php:43
@@ -608,7 +608,7 @@ msgid ""
 "The front page url contains the language code instead of the page name or "
 "page id"
 msgstr ""
-"L'adreça de la pagina d'acuèlh conten lo còde de la lenga al luòc del nom de "
+"L'adreça de la pagina d'acuèlh conten lo còdi de la lenga al luòc del nom de "
 "la pagina"
 
 # @ polylang
@@ -646,8 +646,8 @@ msgstr "Traduccions mesas a jorn."
 #: admin/view-tab-lang.php:72
 msgid "Language code - preferably 2-letters ISO 639-1  (for example: en)"
 msgstr ""
-"Còde de lenga, de preferéncia còde ISO 639-1 a 2 letras (per exemple&nbsp;: "
-"fr)"
+"Còdi de lenga, de preferéncia còde ISO 639-1 a 2 letras (per exemple&nbsp;: "
+"oc)"
 
 # @ polylang
 #: admin/admin-filters.php:203
@@ -667,7 +667,7 @@ msgstr "Extensions recomandadas"
 # @ polylang
 #: admin/view-tab-settings.php:51
 msgid "The language is set from the code in the URL"
-msgstr "La lenga es determinada pel còde dins l'URL"
+msgstr "La lenga es determinada pel còdi dins l'URL"
 
 # @ polylang
 #: include/switcher.php:26
